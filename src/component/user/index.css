@@ -1,0 +1,16 @@
+.user-card>a {
+    height: 100px;
+    width: 100px;
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    place-items: center;
+}
+
+.user-img {
+    height: 50px;
+    width: 50px;
+}
+
+.user-card {
+    display: inline-block;
+}

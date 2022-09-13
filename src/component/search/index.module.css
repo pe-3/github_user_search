@@ -1,0 +1,9 @@
+.search {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.input,.button{
+    margin-right: 20px;
+}
